@@ -1,6 +1,6 @@
 # Welcome to Yavar Khan's GitHub 👋
 
-![Profile Thumbnail](https://as1.ftcdn.net/v2/jpg/06/84/18/58/1000_F_684185884_eKq0i4Ua9GrwKUfluonwGE5xjwxHGyvW.jpg)
+![Profile Thumbnail](https://v.ftcdn.net/05/09/33/73/700_F_509337365_RPQ2zpBB3Fk7neR9KfR7Ae5FoaNRxud9_ST.mp4)
 
 ## About Me
 Hi! I'm **Yavar Khan**, a passionate software engineer and AI/ML enthusiast pursuing an MS in Computer Science at the University at Buffalo. With over 2.5 years of experience at Accenture as a Software Engineering Analyst, I specialize in API development, machine learning models, and cloud technologies. I'm always eager to learn and share my projects with the community.
