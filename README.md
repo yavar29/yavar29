@@ -1,6 +1,6 @@
 # Welcome to Yavar Khan's GitHub 👋
 
-![Profile Thumbnail](file:///Users/yavar/Downloads/DALL%C2%B7E%202025-01-19%2019.50.30%20-%20A%20cozy%20and%20minimalistic%20animated-style%20illustration%20of%20a%20home%20workspace.%20A%20person%20sits%20in%20front%20of%20two%20monitors%20at%20a%20wooden%20desk,%20with%20a%20warm%20desk%20lam.webp)
+![Profile Thumbnail](https://as1.ftcdn.net/v2/jpg/06/84/18/58/1000_F_684185884_eKq0i4Ua9GrwKUfluonwGE5xjwxHGyvW.jpg)
 
 ## About Me
 Hi! I'm **Yavar Khan**, a passionate software engineer and AI/ML enthusiast pursuing an MS in Computer Science at the University at Buffalo. With over 2.5 years of experience at Accenture as a Software Engineering Analyst, I specialize in API development, machine learning models, and cloud technologies. I'm always eager to learn and share my projects with the community.
