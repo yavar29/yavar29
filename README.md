@@ -75,10 +75,6 @@ _July 2016 - May 2020_
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yavar29&show_icons=true&theme=radical)
-
----
-
 ## Let's Connect!
 If you find my projects interesting, feel free to connect with me via email, LinkedIn, or GitHub. I'm always open to collaborating on innovative ideas and impactful projects.
 
