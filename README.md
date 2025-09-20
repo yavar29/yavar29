@@ -1,4 +1,4 @@
-# 🚀 Welcome to Yavar Khan’s GitHub
+<h1 align="center">🚀 Welcome to Yavar Khan’s GitHub</h1>
 
 <p align="center">
   <img src="https://as1.ftcdn.net/v2/jpg/07/99/99/80/1000_F_799998098_XZ79fv6YrAOZLl3sDJc3Ro1KZUvlAF5p.jpg" alt="Profile Banner" width="80%">
@@ -51,18 +51,19 @@ At **Accenture**, I served on the **Web API team** for a U.S.-based pharmaceutic
 ---
 
 ## 🚀 Featured Projects
-### 🔹 Multi-Agent GenAI Weather Assistant
+
+### 🔹 [Multi-Agent GenAI Weather Assistant](https://github.com/VectorWorkX/wx-event-reliability)
 - Deployed **multi-agent assistant** with **Gemini LLMs** on Vertex AI.  
 - Integrated **Google ADK** + **Open-Meteo APIs** for deterministic weather insights.  
 - Features: dynamic API endpoint selection, variable mapping, timezone awareness, RAG-based summarization. 
 
-### 🔹 Deep Learning Image Classification (VGG-16 vs ResNet-18)
+### 🔹 [Deep Learning Image Classification (VGG-16 vs ResNet-18)](https://github.com/yavar29/ML_Projects/tree/319a22fbbddcdb3796cdd9ecb4a566ccc326d50f/Deep%20Learning%20Models/VGG%20and%20Resnet)
 - PyTorch pipeline; **96.5% (VGG-16)** / **94.5% (ResNet-18)**; regularization + LR scheduling.
 
-### 🔹 EMNIST Character Recognition (CNN)
+### 🔹 [EMNIST Character Recognition (CNN)](https://github.com/yavar29/ML_Projects/blob/319a22fbbddcdb3796cdd9ecb4a566ccc326d50f/EMNIST.ipynb)
 - PyTorch; **90.83%**; dropout, batch norm, step LR, augmentation.
 
-### 🔹 Reinforcement Learning Grid Navigation
+### 🔹 [Reinforcement Learning Grid Navigation](https://github.com/yavar29/ML_Projects/blob/319a22fbbddcdb3796cdd9ecb4a566ccc326d50f/GridWorld_RL.ipynb)
 - 6x4 grid-world; **SARSA** + **n-step Double Q-Learning** for stability and reward optimization.
 
 ---
