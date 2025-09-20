@@ -1,46 +1,60 @@
 # 🚀 Welcome to Yavar Khan’s GitHub
 
 <p align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/07/99/99/80/1000_F_799998098_XZ79fv6YrAOZLl3sDJc3Ro1KZUvlAF5p.jpg" alt="Profile Banner" width="100%">
-</p>
-
-<p align="center">
-  <a href="mailto:yavarkhan1997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yavar-khan29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/yavar29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://as1.ftcdn.net/v2/jpg/07/99/99/80/1000_F_799998098_XZ79fv6YrAOZLl3sDJc3Ro1KZUvlAF5p.jpg" alt="Profile Banner" width="80%">
 </p>
 
 ---
 
-## 👨‍💻 About Me
-Hi! I’m **Yavar**, a **Software Engineer & AI/ML enthusiast** pursuing an **MS in Computer Science (AI/ML)** at **University at Buffalo**.  
-- 🌩️ Built a **Multi-Agent GenAI Weather Assistant** on **Google Vertex AI** using **Gemini**, **RAG**, and **Open-Meteo**.  
-- 🤝 I enjoy building reliable, explainable AI systems and production-grade APIs.  
-- 🔭 Open to collaborations in **multi-agent AI**, **ML platforms**, and **MLOps**.
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:yavarkhan1997@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yavar-khan29/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/yavar29"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+Hi! I'm **Yavar Khan**, a passionate **Software Engineer & AI/ML Enthusiast** pursuing my **MS in Computer Science (AI/ML Track)** at the **University at Buffalo**.  
+
+- 🌩️ Built a **Multi-Agent GenAI Weather Assistant** on **Google Vertex AI**, combining Gemini LLMs, RAG, and Open-Meteo APIs to deliver explainable weather insights.  
+- 💻 Experienced in **software engineering and large-scale API development**, with hands-on expertise in cloud platforms, distributed systems, and DevOps workflows.  
+- 🤖 Skilled in **machine learning, generative AI, and data-driven systems**, with a focus on creating solutions that are robust, maintainable, and production-ready.  
+- 💼 Former **Software Engineering Analyst at Accenture**, where I delivered high-impact APIs for global clients and mentored a six-member engineering team.  
+- 🌍 Always open to collaborations in **software engineering, multi-agent AI, and ML platforms** that push boundaries and create real-world impact.  
 
 ---
 
 ## 🏢 Professional Experience
-At **Accenture**, I served on the **Web API team** for a U.S. pharma client, **managing and deploying 50+ APIs** across **Apigee and AWS**. I partnered with teams in the **U.S., Prague, and Singapore** to ship releases and resolve production incidents, built **monitoring/observability** workflows, and **mentored six engineers** to deliver on time. Day-to-day stack: **Java, Postman, AWS, JIRA, ElasticSearch**—with a constant focus on **performance, reliability, and scalability**.
+At **Accenture**, I served on the **Web API team** for a U.S.-based pharmaceutical client, **managing and deploying 50+ APIs** across **Apigee and AWS**. I partnered with teams in the **U.S., Prague, and Singapore** to ship releases and resolve production incidents, built **monitoring/observability** workflows, and **mentored six engineers** to deliver on time. Day-to-day stack: **Java, Postman, AWS, JIRA, ElasticSearch**—with a constant focus on **performance, reliability, and scalability**.
 
 ---
 
-## 🎓 Education
-- **University at Buffalo, SUNY** — MS, Computer Science (AI/ML) *(Expected Dec 2025)*  
-- **Amity University, India** — B.Tech, Information Technology
+## 🎓 Education  
+
+- **University at Buffalo, SUNY**  
+  Master of Science – Computer Science (AI/ML Track) | *Expected Dec 2025*  
+  **GPA:** 3.87  
+
+- **Amity University, India**  
+  Bachelor of Technology – Information Technology | *2016 – 2020*  
 
 ---
 
 ## 🏆 Certifications
-- [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/S2JVD4E1X2VQQ7KF)  
-- [Machine Learning Specialization — Stanford / DeepLearning.AI](https://coursera.org/share/3d553a1ae631d19e95226287190bc71c)
+- 🟠 [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/S2JVD4E1X2VQQ7KF) (2023)  
+- 🔵 [Machine Learning Specialization – Stanford/DeepLearning.AI](https://coursera.org/share/3d553a1ae631d19e95226287190bc71c) (2023)  
 
 ---
 
 ## 🚀 Featured Projects
 ### 🔹 Multi-Agent GenAI Weather Assistant
-- **Vertex AI + Gemini + Google ADK + Open-Meteo**  
-- Deterministic workflows: dynamic endpoint selection, strict variable mapping (hourly/daily), timezone awareness, **RAG**.
+- Deployed **multi-agent assistant** with **Gemini LLMs** on Vertex AI.  
+- Integrated **Google ADK** + **Open-Meteo APIs** for deterministic weather insights.  
+- Features: dynamic API endpoint selection, variable mapping, timezone awareness, RAG-based summarization. 
 
 ### 🔹 Deep Learning Image Classification (VGG-16 vs ResNet-18)
 - PyTorch pipeline; **96.5% (VGG-16)** / **94.5% (ResNet-18)**; regularization + LR scheduling.
