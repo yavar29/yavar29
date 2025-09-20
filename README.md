@@ -1,19 +1,7 @@
 # 🚀 Welcome to Yavar Khan’s GitHub
 
-<!-- HERO BANNER (inline SVG, no hosting required) -->
 <p align="center">
-  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Yavar Khan: Software Engineer & AI/ML">
-    <defs>
-      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0ea5e9"/>
-        <stop offset="50%" stop-color="#6366f1"/>
-        <stop offset="100%" stop-color="#22c55e"/>
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="180" rx="18" fill="url(#g)"/>
-    <text x="5%" y="55%" fill="#ffffff" font-size="44" font-weight="700" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">Yavar Khan</text>
-    <text x="5%" y="78%" fill="#ecfeff" font-size="24" font-weight="500" font-family="Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">Software Engineer • AI/ML • Multi-Agent Systems</text>
-  </svg>
+  <img src="https://as1.ftcdn.net/v2/jpg/07/99/99/80/1000_F_799998098_XZ79fv6YrAOZLl3sDJc3Ro1KZUvlAF5p.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <p align="center">
@@ -27,7 +15,7 @@
 ## 👨‍💻 About Me
 Hi! I’m **Yavar**, a **Software Engineer & AI/ML enthusiast** pursuing an **MS in Computer Science (AI/ML)** at **University at Buffalo**.  
 - 🌩️ Built a **Multi-Agent GenAI Weather Assistant** on **Google Vertex AI** using **Gemini**, **RAG**, and **Open-Meteo**.  
-- 🤝 Enjoy building reliable, explainable AI systems and production-grade APIs.  
+- 🤝 I enjoy building reliable, explainable AI systems and production-grade APIs.  
 - 🔭 Open to collaborations in **multi-agent AI**, **ML platforms**, and **MLOps**.
 
 ---
@@ -67,7 +55,7 @@ At **Accenture**, I served on the **Web API team** for a U.S. pharma client, **m
 
 ## ⚡ Skills
 
-<!-- Compact icon rows (readable + scannable) -->
+<!-- Your preferred compact icon rows -->
 **AI/ML & GenAI**  
 <p>
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=flat"> 
@@ -82,4 +70,28 @@ At **Accenture**, I served on the **Web API team** for a U.S. pharma client, **m
 <p>
   <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/C
+  <img src="https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white&style=flat">
+</p>
+
+**Cloud & Platforms**  
+<p>
+  <img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Vertex_AI-4285f4?logo=googlecloud&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Google_ADK-34a853?logo=google&logoColor=white&style=flat">
+</p>
+
+**DevOps & Tools**  
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Apigee-ff6f00?style=flat">
+  <img src="https://img.shields.io/badge/JIRA-0052cc?logo=jira&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=flat">
+</p>
+
+---
+
+<p align="center"><b>💡 Let’s build reliable, explainable AI together.</b></p>
