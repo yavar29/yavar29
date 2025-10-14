@@ -55,7 +55,12 @@ At **Accenture**, I served on the **Web API team** for a U.S.-based pharmaceutic
 ### 🔹 [Multi-Agent GenAI Weather Assistant](https://github.com/VectorWorkX/wx-event-reliability)
 - Deployed **multi-agent assistant** with **Gemini LLMs** on Vertex AI.  
 - Integrated **Google ADK** + **Open-Meteo APIs** for deterministic weather insights.  
-- Features: dynamic API endpoint selection, variable mapping, timezone awareness, RAG-based summarization. 
+- Features: dynamic API endpoint selection, variable mapping, timezone awareness, RAG-based summarization.
+
+### 🔹 [Transformer-based Sentiment Analysis (Yelp Review Polarity)](https://github.com/yavar29/ML_Projects/tree/main/Deep%20Learning%20Models/Transformer)
+- Built a **custom Transformer model in PyTorch** with multi-head self-attention and positional encoding.  
+- Trained on **560K Yelp reviews**, achieving **91.8% accuracy** and **0.92 F1-score** using Dropout, Early Stopping, and L2 regularization.  
+- Designed a **scalable NLP preprocessing pipeline** with spaCy and Gensim for efficient tokenization and embedding generation.  
 
 ### 🔹 [Deep Learning Image Classification (VGG-16 vs ResNet-18)](https://github.com/yavar29/ML_Projects/tree/319a22fbbddcdb3796cdd9ecb4a566ccc326d50f/Deep%20Learning%20Models/VGG%20and%20Resnet)
 - PyTorch pipeline; **96.5% (VGG-16)** / **94.5% (ResNet-18)**; regularization + LR scheduling.
