@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to Yavar Khan’s GitHub</h1>
+<h1 align="center">Welcome to Yavar Khan’s GitHub</h1>
 
 <p align="center">
   <img src="https://as1.ftcdn.net/v2/jpg/07/99/99/80/1000_F_799998098_XZ79fv6YrAOZLl3sDJc3Ro1KZUvlAF5p.jpg" alt="Profile Banner" width="80%">
@@ -21,8 +21,8 @@
 Hi! I'm **Yavar Khan**, a passionate **Software Engineer & AI/ML Enthusiast** pursuing my **MS in Computer Science (AI/ML Track)** at the **University at Buffalo**.  
 
 - 🌩️ Built a **Multi-Agent GenAI Weather Assistant** on **Google Vertex AI**, combining Gemini LLMs, RAG, and Open-Meteo APIs to deliver explainable weather insights.  
+- 🤖 Developed a **Context-Aware AI RAG Assistant** with multi-persona identity grounding, semantic retrieval, and tool-driven reasoning.  
 - 💻 Experienced in **software engineering and large-scale API development**, with hands-on expertise in cloud platforms, distributed systems, and DevOps workflows.  
-- 🤖 Skilled in **machine learning, generative AI, and data-driven systems**, with a focus on creating solutions that are robust, maintainable, and production-ready.  
 - 💼 Former **Software Engineering Analyst at Accenture**, where I delivered high-impact APIs for global clients and mentored a six-member engineering team.  
 - 🌍 Always open to collaborations in **software engineering, multi-agent AI, and ML platforms** that push boundaries and create real-world impact.  
 
@@ -37,7 +37,7 @@ At **Accenture**, I served on the **Web API team** for a U.S.-based pharmaceutic
 
 - **University at Buffalo, SUNY**  
   Master of Science – Computer Science (AI/ML Track) | *Expected Dec 2025*  
-  **GPA:** 3.87  
+  **GPA:** 3.89  
 
 - **Amity University, India**  
   Bachelor of Technology – Information Technology | *2016 – 2020*  
@@ -52,61 +52,83 @@ At **Accenture**, I served on the **Web API team** for a U.S.-based pharmaceutic
 
 ## 🚀 Featured Projects
 
-### 🔹 [Multi-Agent GenAI Weather Assistant](https://github.com/VectorWorkX/wx-event-reliability)
-- Deployed **multi-agent assistant** with **Gemini LLMs** on Vertex AI.  
-- Integrated **Google ADK** + **Open-Meteo APIs** for deterministic weather insights.  
-- Features: dynamic API endpoint selection, variable mapping, timezone awareness, RAG-based summarization.
+### 🔹 **Context-Aware AI RAG Assistant (Identity-Aware Career Agent)**
+📍 **Repo:** https://github.com/yavar29/GenAI_Projects/tree/main/Context-Aware_AI_RAG_Assistant  
+- Designed an identity-grounded personal AI assistant using **FAISS-powered semantic retrieval** and **persona-adaptive reasoning**.  
+- Built with **Gradio**, **LangChain-style architecture**, and **OpenAI function calling** for tool-driven workflows.  
+- Includes **notification system**, **memory logging**, and **hallucination-safe output enforcement**.
 
-### 🔹 [Transformer-based Sentiment Analysis (Yelp Review Polarity)](https://github.com/yavar29/ML_Projects/tree/main/Deep%20Learning%20Models/Transformer)
-- Built a **custom Transformer model in PyTorch** with multi-head self-attention and positional encoding.  
-- Trained on **560K Yelp reviews**, achieving **91.8% accuracy** and **0.92 F1-score** using Dropout, Early Stopping, and L2 regularization.  
-- Designed a **scalable NLP preprocessing pipeline** with spaCy and Gensim for efficient tokenization and embedding generation.  
+---
 
-### 🔹 [Deep Learning Image Classification (VGG-16 vs ResNet-18)](https://github.com/yavar29/ML_Projects/tree/319a22fbbddcdb3796cdd9ecb4a566ccc326d50f/Deep%20Learning%20Models/VGG%20and%20Resnet)
-- PyTorch pipeline; **96.5% (VGG-16)** / **94.5% (ResNet-18)**; regularization + LR scheduling.
+### 🔹 **Multi-Agent GenAI Weather Assistant**
+📍 **Repo:** https://github.com/VectorWorkX/wx-event-reliability  
+- Built using **Gemini + Vertex AI + Google ADK** for explainable meteorological insight modeling.  
+- Implements **RAG-enhanced summarization**, **parameter mapping**, and **time-zone aligned forecasting** across agents.
 
-### 🔹 [EMNIST Character Recognition (CNN)](https://github.com/yavar29/ML_Projects/blob/319a22fbbddcdb3796cdd9ecb4a566ccc326d50f/EMNIST.ipynb)
-- PyTorch; **90.83%**; dropout, batch norm, step LR, augmentation.
+---
 
-### 🔹 [Reinforcement Learning Grid Navigation](https://github.com/yavar29/ML_Projects/blob/319a22fbbddcdb3796cdd9ecb4a566ccc326d50f/GridWorld_RL.ipynb)
-- 6x4 grid-world; **SARSA** + **n-step Double Q-Learning** for stability and reward optimization.
+### 🔹 **Transformer-Based Sentiment Analysis (Yelp Review Polarity)**
+📍 **Repo:** https://github.com/yavar29/ML_Projects/tree/main/Deep%20Learning%20Models/Transformer  
+- Custom Transformer model using **positional encoding, MHA, dropout**, and **early stopping**.  
+- Achieved **91.8% accuracy** and **0.92 F1-score** on **560K reviews** with an optimized NLP preprocessing pipeline.
+
+---
+
+### 🔹 **Deep Learning Image Classification (VGG-16 vs ResNet-18)**
+📍 **Repo:** https://github.com/yavar29/ML_Projects/tree/319a22fbbddcdb3796cdd9ecb4a566ccc326d50f/Deep%20Learning%20Models/VGG%20and%20Resnet  
+- Built & trained multiple CNN pipelines with **regularization**, **augmentation**, and **LR scheduling**.  
+- Achieved **96.5% (VGG-16)** and **94.5% (ResNet-18)** classification accuracy.
+
+---
+
+### 🔹 **Reinforcement Learning Grid Navigation**
+📍 **Repo:** https://github.com/yavar29/ML_Projects/tree/main/Reinforcement%20Learning%20Models%20  
+- Designed **SARSA + n-Step Double Q-Learning**-based policy agent for grid-world navigation and reward stabilization.  
+
+---
+
+### 🔹 **ThermoWatch-AE (Industrial Anomaly Detection via Autoencoders)**  
+📍 **Repo:** https://github.com/yavar29/ML_Projects/tree/main/Deep%20Learning%20Models/Autoencoder_AnomalyDetection  
+- Built a **deep autoencoder pipeline** for temperature-based anomaly detection leveraging **reconstruction-loss thresholds**.  
+- Suitable for **predictive maintenance**, **IoT analytics**, and **fault forecasting**.
 
 ---
 
 ## ⚡ Skills
 
-<!-- Your preferred compact icon rows -->
-**AI/ML & GenAI**  
+### **AI/ML & GenAI**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=flat"> 
   <img src="https://img.shields.io/badge/TensorFlow-ff6f00?logo=tensorflow&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/Scikit--learn-f7931e?logo=scikitlearn&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/Generative_AI-4285f4?logo=google&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/RAG-181717?logo=github&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-6366f1?style=flat">
+  <img src="https://img.shields.io/badge/Transformers_MHA-4a148c?style=flat">
+  <img src="https://img.shields.io/badge/RAG_Pipelines-2e7d32?style=flat">
+  <img src="https://img.shields.io/badge/FAISS_Vector_DB-005571?style=flat">
+  <img src="https://img.shields.io/badge/LangChain_Architecture-2f7cf6?style=flat">
+  <img src="https://img.shields.io/badge/Multi_Agent_AI-7c3aed?style=flat">
+  <img src="https://img.shields.io/badge/LLM_Function_Calling-9c27b0?style=flat">
+  <img src="https://img.shields.io/badge/Gradio_UIs-orange?style=flat">
 </p>
 
-**Programming & Databases**  
+### **Programming & Databases**
 <p>
   <img src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat">
   <img src="https://img.shields.io/badge/PostgreSQL-4169e1?logo=postgresql&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white&style=flat">
 </p>
 
-**Cloud & Platforms**  
+### **Cloud & Platforms**
 <p>
   <img src="https://img.shields.io/badge/AWS-232f3e?logo=amazonaws&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Vertex_AI-4285f4?logo=googlecloud&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Google_ADK-34a853?logo=google&logoColor=white&style=flat">
 </p>
 
-**DevOps & Tools**  
+### **DevOps & Tooling**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=flat">
-  <img src="https://img.shields.io/badge/Apigee-ff6f00?style=flat">
+  <img src="https://img.shields.io/badge/Apigee_API_Gateway-ff6f00?style=flat">
   <img src="https://img.shields.io/badge/JIRA-0052cc?logo=jira&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=flat">
   <img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=flat">
