@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Yavar Khan’s GitHub</h1>
+<h1 align="center"> Welcome to Yavar Khan’s GitHub </h1>
 
 <p align="center">
   <img src="https://as1.ftcdn.net/v2/jpg/07/99/99/80/1000_F_799998098_XZ79fv6YrAOZLl3sDJc3Ro1KZUvlAF5p.jpg" alt="Profile Banner" width="80%">
@@ -136,4 +136,4 @@ At **Accenture**, I served on the **Web API team** for a U.S.-based pharmaceutic
 
 ---
 
-<p align="center"><b>💡 Let’s build reliable, explainable AI together.</b></p>
+<p align="center"><b>💡 Let’s build reliable, explainable AI together. </b></p>
