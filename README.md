@@ -36,8 +36,8 @@ At **Accenture**, I served on the **Web API team** for a U.S.-based pharmaceutic
 ## 🎓 Education  
 
 - **University at Buffalo, SUNY**  
-  Master of Science – Computer Science (AI/ML Track) | *Expected Dec 2025*  
-  **GPA:** 3.89  
+  Master of Science – Computer Science (AI/ML Track) | *2024 - 2026*  
+  **GPA:** 3.87  
 
 - **Amity University, India**  
   Bachelor of Technology – Information Technology | *2016 – 2020*  
